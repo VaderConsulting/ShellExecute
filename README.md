@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/ShellExecute`.
+Working copy from my Historical Dev folder `VB/ShellExecute`.
 Company names in `.vbp` files: VB-World.
 Third-party attribution: VB-World / John Percival. See `THIRD_PARTY_NOTICES.md` and `Readme.txt`.
 
